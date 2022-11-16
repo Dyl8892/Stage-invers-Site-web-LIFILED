@@ -12,6 +12,8 @@ Excellence : Viser l’excellence en toutes circonstances, pour vous satisfaire 
 
 Innovation : Apporter une source d’espoir aux jeunes Africains à l’aide de la technologie digitale.
 
+----------------------------
+
 ## Notre Vision
 
 Contribuer à l’émergence technologique des citoyens, plus particulièrement celle des zones rurales en facilitant l’accessibilité à l’information numérique de haute qualité sur tout le continent.
@@ -49,3 +51,6 @@ Les modalités de paiement de l’**Offre Pay as You GO** se font comme suit:
 * Pass Mois = 20 Euros
 
 (*) 1 mois offert à l’abonnement
+
+
+-------------------
